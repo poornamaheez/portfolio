@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "degree": "B.Tech, CSE",
+      "institution": "Sree Venkateswara college of Engineering, Rajupalem.",
+      "university": "Jawaharlal Nehru Technological University, Anantapuram.",
+      "year": 2024,
+      "percentage": "79%"
+
+    },
+    {
+      "id": 2,
+      "degree": "Intermediate",
+      "institution": "Narayana junior college, Nellore",
+      "university": "Board of Intermediate education",
+      "year": 2020,
+      "percentage": "9.54(GPA)"
+
+    },
+    {
+      "id": 3,
+      "degree": "SSC",
+      "institution": "Vidyodaya EM high School Nellore district",
+      "university": "Board of Secondary School Education, A.P.",
+      "year": 2018,
+      "percentage": "9.8(GPA)"
+    }
+  ]
+  
