@@ -6,7 +6,7 @@ import profileImage from "../assets/img/profile.jpg";
 export const AboutMe = () => {
   const ResumeButton = (e) =>{
     
-    window.open("https://drive.google.com/file/d/1Pind2fFxBY9GSolz3g3qDQYUspKpeENe/view?usp=drive_link","_blank", "noopener noreferrer");
+    window.open("https://drive.google.com/file/d/1uby2fPuj-2K3HJ3wN3I-PnLiZUd2EB-n/view?usp=drive_link","_blank", "noopener noreferrer");
   };
   return (
     <div className="about-me">
