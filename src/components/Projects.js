@@ -34,7 +34,7 @@ export const Projects = () => {
       url: "https://github.com/poornamaheez/quiz-app"
     },
     {
-      title: "Detection Of Parkinson's Desease",
+      title: "Detection Of Parkinson's Disease",
       description: "Detects early signs of Parkinson’s disease through patterns in patient drawings, aiding in early diagnosis and intervention.",
       imgUrl: parkinson,
       url: "https://github.com/poornamaheez/parkinson-desease"
